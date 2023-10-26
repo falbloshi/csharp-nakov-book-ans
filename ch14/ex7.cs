@@ -1,0 +1,1 @@
+same functionality as ex6 
